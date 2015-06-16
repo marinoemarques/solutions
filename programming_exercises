@@ -40,3 +40,6 @@ def difference():
 	square_of_sum = square_of_sum * square_of_sum
 	
 	return sum_of_squares - square_of_sum
+	
+6-
+randint
